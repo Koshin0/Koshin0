@@ -7,5 +7,5 @@ Cloud
 ☁️ Cloud Engineer navigating through tech with a passion for diverse projects and a Python-powered compass! 🐍 Excited about architecting scalable, efficient solutions in the cloud ecosystem. 🚀 A perpetual learner, constantly embracing new skills and challenges
 
 * 🌍  I'm based in London
-* 🧠  I'm learning Python ans AWS
+* 🧠  I'm learning Python and AWS
 * 🤝  I'm open to collaborating on Python Projects
