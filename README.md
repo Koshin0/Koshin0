@@ -9,4 +9,4 @@ Cloud
 * 🌍  I'm based in London
 * 🧠  I'm learning Python and AWS
 * 🤝  I'm open to collaborating on Python Projects
-<img align="right" alt="coding" width "400" src="https://i.pinimg.com/originals/a3/88/b5/a388b52cb0b98b71066ce08b9fcc21c5.gif">
+ 
